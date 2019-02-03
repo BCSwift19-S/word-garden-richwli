@@ -78,7 +78,9 @@
                         <outlet property="flowerPicture" destination="lee-bU-jYn" id="Y12-Iz-sdv"/>
                         <outlet property="guessCountLabel" destination="17I-k9-0zh" id="Rt4-bX-bpc"/>
                         <outlet property="guessFillLabel" destination="Na4-SQ-Vk3" id="CJe-w3-Tmr"/>
+                        <outlet property="guessThisLetterBut" destination="FNo-Q4-JPN" id="kYB-L7-SCb"/>
                         <outlet property="headerLabel" destination="fKK-4d-Vje" id="5FJ-8g-P0K"/>
+                        <outlet property="playAgainBut" destination="1m6-04-eEm" id="0hF-vE-7aC"/>
                         <outlet property="userLetterSelectField" destination="lSf-iy-rsL" id="lnG-8k-JCF"/>
                     </connections>
                 </viewController>
